@@ -1,0 +1,45 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #101215;
+}
+header{
+    background-color: #101215;
+}
+.card{
+ background-color: rgb(56, 15, 68);
+ color: aliceblue;
+}
+
+.agregar-carrito{
+    background-color: rgb(168, 124, 1);
+    border-radius: 20px 20px 20px 20px;
+    color: rgb(231, 231, 231);
+    font-size: 15px;
+}
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(154, 126, 221);
+}
+#img-carrito{
+    border-radius: 5px 5px 5px 5px;
+    float:right;
+}
+#colornegro{
+    color: rgb(245, 245, 245);
+    font-weight: bolder;
+    background-color: #101215;
+}
+.hero{
+    background-image:url('img/hero.png');
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+.margen-boton{
+    top: 10px;
+    padding: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #644581;
+}
